@@ -7,7 +7,7 @@
 .hero{
     height: 100%;
     width: 100%;
-    background-image: linear-gradient(rgb(0,0,0,0.4),rgb(0,0,0,0.4)),url(hst.jpg);
+    background-image: linear-gradient(rgb(0,0,0,0.4),rgb(0,0,0,0.4)),url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.wrb6vlYKLa0N65oC_yFu6AHaFj%26pid%3DApi&f=1&ipt=fda083762416f5769878dafc2a38d3688e0978c3bc75b7b9de83417765cbfc62&ipo=images);
     background-position: center;
     background-size:cover ;
     position: absolute;
